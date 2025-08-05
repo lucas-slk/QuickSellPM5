@@ -1,0 +1,7 @@
+name: QuickSell
+authors:
+  - L.U
+  - RootPM Shop
+main: lu\quicksell\Main
+version: 1.0.0
+api: 5.0.0

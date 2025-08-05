@@ -1,0 +1,8 @@
+items:
+  "minecraft:diamond": 100
+  "minecraft:iron_ingot": 20
+  "minecraft:gold_ingot": 50
+
+economy:
+  bedrockeconomy: false
+  economyapi: true
